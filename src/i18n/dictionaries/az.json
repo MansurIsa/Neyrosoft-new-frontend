@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Neyrosoft — veb, mobil və ERP həlləri",
+    "description": "Bakıda veb saytlar, mobil tətbiqlər, ERP sistemləri və SEO. Layihənizin qiymətini bir dəqiqəyə hesablayın."
+  },
+  "nav": {
+    "home": "Ana səhifə",
+    "about": "Haqqımızda",
+    "services": "Xidmətlər",
+    "projects": "İşlərimiz",
+    "blog": "Bloq",
+    "contact": "Əlaqə",
+    "calculator": "Qiymət təklifi al",
+    "openMenu": "Menyunu aç",
+    "closeMenu": "Menyunu bağla"
+  },
+  "theme": {
+    "toLight": "İşıqlı rejimə keç",
+    "toDark": "Qaranlıq rejimə keç"
+  },
+  "language": {
+    "label": "Dil",
+    "az": "Azərbaycanca",
+    "en": "English"
+  },
+  "home": {
+    "eyebrow": "Bakı, Azərbaycan",
+    "heroTitle": "Biznesinizi işlədən proqram təminatı",
+    "heroLead": "Veb saytlardan ERP sistemlərinə qədər — layihəni sıfırdan qurur, işə salır və sonrasında da yanınızda qalırıq.",
+    "heroPrimary": "Qiymət təklifi al",
+    "heroSecondary": "İşlərimizə bax",
+    "heroNote": "Hesablayıcı bir dəqiqə çəkir, heç bir öhdəlik yaratmır.",
+    "servicesTitle": "Nə qururuq",
+    "servicesLead": "Hər layihə eyni komanda tərəfindən aparılır: analiz, dizayn, kod, test və təhvil.",
+    "projectsTitle": "Son işlərimiz",
+    "projectsLead": "İstifadədə olan saytlar. Hər birinə keçid edib özünüz baxa bilərsiniz.",
+    "blogTitle": "Bloqumuzdan",
+    "blogLead": "Texnologiya, dizayn və rəqəmsal marketinq haqqında qeydlər.",
+    "reviewsTitle": "Müştərilər nə deyir",
+    "viewAll": "Hamısına bax",
+    "ctaTitle": "Layihəniz var?",
+    "ctaLead": "Nə istədiyinizi bir neçə cümlə ilə yazın. Bir iş günü ərzində cavab veririk.",
+    "ctaButton": "Bizə yazın",
+    "statsTitle": "Rəqəmlərlə",
+    "heroCall": "Zəng et"
+  },
+  "about": {
+    "title": "Haqqımızda",
+    "missionLabel": "Missiyamız",
+    "visionLabel": "Baxışımız",
+    "valuesLabel": "Dəyərlərimiz"
+  },
+  "services": {
+    "title": "Xidmətlər",
+    "lead": "Aşağıdakı sahələrdə layihələr qəbul edirik.",
+    "readMore": "Ətraflı",
+    "backToList": "Bütün xidmətlər",
+    "askPrice": "Bu xidmətin qiymətini hesabla"
+  },
+  "projects": {
+    "title": "İşlərimiz",
+    "lead": "Təhvil verdiyimiz və hazırda işləyən layihələr.",
+    "visit": "Sayta keç"
+  },
+  "blog": {
+    "title": "Bloq",
+    "lead": "Komandamızın yazıları.",
+    "readMore": "Oxu",
+    "backToList": "Bütün yazılar",
+    "views": "baxış",
+    "empty": "Hələ yazı yoxdur."
+  },
+  "contact": {
+    "title": "Əlaqə",
+    "lead": "Layihəniz və ya sualınız varsa yazın.",
+    "formTitle": "Mesaj göndər",
+    "name": "Ad",
+    "surname": "Soyad",
+    "email": "E-poçt",
+    "phone": "Telefon",
+    "subject": "Mövzu",
+    "message": "Mesaj",
+    "submit": "Mesajı göndər",
+    "submitting": "Göndərilir…",
+    "success": "Mesajınız göndərildi. Bir iş günü ərzində cavab verəcəyik.",
+    "error": "Mesaj göndərilmədi. Sahələri yoxlayın və yenidən cəhd edin.",
+    "phoneLabel": "Telefon",
+    "emailLabel": "E-poçt",
+    "addressLabel": "Ünvan",
+    "hoursLabel": "İş saatları",
+    "hoursValue": "Bazar ertəsi–Cümə, 09:00–18:00"
+  },
+  "validation": {
+    "name": "Adınızı yazın",
+    "surname": "Soyadınızı yazın",
+    "email": "Düzgün e-poçt ünvanı yazın",
+    "phone": "Düzgün telefon nömrəsi yazın",
+    "subject": "Mövzunu yazın",
+    "message": "Mesajı yazın",
+    "minChars": "Ən azı {n} simvol yazın"
+  },
+  "calculator": {
+    "title": "Layihə hesablayıcısı",
+    "lead": "Dörd sualı cavablandırın — təxmini qiymət və müddət dərhal görünəcək. Rəqəm ilkin qiymətləndirmədir, dəqiq təklif söhbətdən sonra verilir.",
+    "step": "Addım {current} / {total}",
+    "stepTypeTitle": "Nə qurmaq istəyirsiniz?",
+    "stepScopeTitle": "Həcm",
+    "stepFeaturesTitle": "Əlavə imkanlar",
+    "stepDeliveryTitle": "Dizayn və müddət",
+    "pages": "Səhifə sayı",
+    "pagesHint": "Ana səhifə, xidmətlər, əlaqə — hamısı ayrıca səhifə sayılır.",
+    "languages": "Dil sayı",
+    "languagesHint": "Sayt neçə dildə işləyəcək.",
+    "designTitle": "Dizayn səviyyəsi",
+    "timelineTitle": "Təhvil müddəti",
+    "next": "Növbəti",
+    "back": "Geri",
+    "estimate": "Təxmini qiymət",
+    "duration": "Təxmini müddət",
+    "days": "iş günü",
+    "breakdown": "Hesablama",
+    "recalculating": "Hesablanır…",
+    "selectTypeFirst": "Əvvəlcə layihə növünü seçin.",
+    "requestTitle": "Bu təklifi mənə göndər",
+    "requestLead": "Əlaqə məlumatlarınızı buraxın — hesablamanı dəqiqləşdirib sizinlə əlaqə saxlayaq.",
+    "company": "Şirkət",
+    "note": "Əlavə qeyd",
+    "notePlaceholder": "Layihə haqqında bilməyimiz vacib olan nə var?",
+    "send": "Təklifi göndər",
+    "sending": "Göndərilir…",
+    "successTitle": "Sorğunuz alındı",
+    "successLead": "Hesablamanı komandamız yoxlayır. Bir iş günü ərzində sizinlə əlaqə saxlayacağıq.",
+    "startOver": "Yenidən hesabla",
+    "error": "Sorğu göndərilmədi. Yenidən cəhd edin.",
+    "optional": "istəyə bağlı"
+  },
+  "chat": {
+    "title": "Neyrosoft köməkçisi",
+    "subtitle": "Adətən dərhal cavab verir",
+    "open": "Söhbəti aç",
+    "close": "Söhbəti bağla",
+    "placeholder": "Sualınızı yazın…",
+    "send": "Göndər",
+    "greeting": "Salam. Qiymət, müddət, xidmətlər və texnologiyalar barədə soruşa bilərsiniz.",
+    "error": "Cavab alınmadı. Bir azdan yenidən yazın.",
+    "typing": "Yazır…"
+  },
+  "footer": {
+    "tagline": "Bakıda yerləşən proqram təminatı komandası.",
+    "quickLinks": "Keçidlər",
+    "servicesTitle": "Xidmətlər",
+    "contactTitle": "Əlaqə",
+    "rights": "Bütün hüquqlar qorunur.",
+    "backToTop": "Yuxarı qayıt"
+  },
+  "common": {
+    "loading": "Yüklənir…",
+    "loadError": "Məlumat yüklənmədi.",
+    "retry": "Yenidən cəhd et",
+    "notFoundTitle": "Səhifə tapılmadı",
+    "notFoundLead": "Axtardığınız ünvan mövcud deyil və ya köçürülüb.",
+    "goHome": "Ana səhifəyə qayıt",
+    "skipToContent": "Əsas məzmuna keç"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Neyrosoft — web, mobile and ERP development",
+    "description": "Websites, mobile apps, ERP systems and SEO, built in Baku. Price your project in about a minute."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Work",
+    "blog": "Blog",
+    "contact": "Contact",
+    "calculator": "Get a quote",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "theme": {
+    "toLight": "Switch to light mode",
+    "toDark": "Switch to dark mode"
+  },
+  "language": {
+    "label": "Language",
+    "az": "Azərbaycanca",
+    "en": "English"
+  },
+  "home": {
+    "eyebrow": "Baku, Azerbaijan",
+    "heroTitle": "Software that runs your business",
+    "heroLead": "From websites to ERP systems — we build the thing, ship it, and stay with you afterwards.",
+    "heroPrimary": "Get a quote",
+    "heroSecondary": "See our work",
+    "heroNote": "The calculator takes a minute and commits you to nothing.",
+    "servicesTitle": "What we build",
+    "servicesLead": "Every project runs through the same team: analysis, design, code, testing, handover.",
+    "projectsTitle": "Recent work",
+    "projectsLead": "Live sites. Open any of them and judge for yourself.",
+    "blogTitle": "From the blog",
+    "blogLead": "Notes on technology, design and digital marketing.",
+    "reviewsTitle": "What clients say",
+    "viewAll": "View all",
+    "ctaTitle": "Have a project?",
+    "ctaLead": "Tell us what you need in a few sentences. We reply within one business day.",
+    "ctaButton": "Write to us",
+    "statsTitle": "By the numbers",
+    "heroCall": "Call us"
+  },
+  "about": {
+    "title": "About us",
+    "missionLabel": "Our mission",
+    "visionLabel": "Our vision",
+    "valuesLabel": "Our values"
+  },
+  "services": {
+    "title": "Services",
+    "lead": "These are the areas we take projects in.",
+    "readMore": "Read more",
+    "backToList": "All services",
+    "askPrice": "Price this service"
+  },
+  "projects": {
+    "title": "Our work",
+    "lead": "Projects we delivered that are running today.",
+    "visit": "Open site"
+  },
+  "blog": {
+    "title": "Blog",
+    "lead": "Writing from our team.",
+    "readMore": "Read",
+    "backToList": "All posts",
+    "views": "views",
+    "empty": "No posts yet."
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Tell us about your project, or just ask a question.",
+    "formTitle": "Send a message",
+    "name": "First name",
+    "surname": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send message",
+    "submitting": "Sending…",
+    "success": "Message sent. We'll reply within one business day.",
+    "error": "The message didn't send. Check the fields and try again.",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "addressLabel": "Address",
+    "hoursLabel": "Office hours",
+    "hoursValue": "Monday–Friday, 09:00–18:00"
+  },
+  "validation": {
+    "name": "Enter your first name",
+    "surname": "Enter your last name",
+    "email": "Enter a valid email address",
+    "phone": "Enter a valid phone number",
+    "subject": "Enter a subject",
+    "message": "Enter a message",
+    "minChars": "Use at least {n} characters"
+  },
+  "calculator": {
+    "title": "Project calculator",
+    "lead": "Answer four questions and see an estimated price and timeline straight away. It's an opening estimate — the firm quote comes after we talk.",
+    "step": "Step {current} of {total}",
+    "stepTypeTitle": "What do you want to build?",
+    "stepScopeTitle": "Scope",
+    "stepFeaturesTitle": "Add-ons",
+    "stepDeliveryTitle": "Design and timeline",
+    "pages": "Number of pages",
+    "pagesHint": "Home, services, contact — each one counts as a page.",
+    "languages": "Number of languages",
+    "languagesHint": "How many languages the site will run in.",
+    "designTitle": "Design level",
+    "timelineTitle": "Delivery speed",
+    "next": "Next",
+    "back": "Back",
+    "estimate": "Estimated price",
+    "duration": "Estimated timeline",
+    "days": "working days",
+    "breakdown": "Breakdown",
+    "recalculating": "Calculating…",
+    "selectTypeFirst": "Pick a project type first.",
+    "requestTitle": "Send me this quote",
+    "requestLead": "Leave your details and we'll refine the estimate and get back to you.",
+    "company": "Company",
+    "note": "Anything else",
+    "notePlaceholder": "What should we know about the project?",
+    "send": "Send the quote",
+    "sending": "Sending…",
+    "successTitle": "Request received",
+    "successLead": "Our team is reviewing the estimate. We'll be in touch within one business day.",
+    "startOver": "Start over",
+    "error": "The request didn't send. Please try again.",
+    "optional": "optional"
+  },
+  "chat": {
+    "title": "Neyrosoft assistant",
+    "subtitle": "Usually replies instantly",
+    "open": "Open chat",
+    "close": "Close chat",
+    "placeholder": "Type your question…",
+    "send": "Send",
+    "greeting": "Hello. Ask me about pricing, timelines, services or the tech we use.",
+    "error": "No reply came back. Try again in a moment.",
+    "typing": "Typing…"
+  },
+  "footer": {
+    "tagline": "A software team based in Baku.",
+    "quickLinks": "Links",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top"
+  },
+  "common": {
+    "loading": "Loading…",
+    "loadError": "Couldn't load the data.",
+    "retry": "Try again",
+    "notFoundTitle": "Page not found",
+    "notFoundLead": "That address doesn't exist, or it moved.",
+    "goHome": "Back to home",
+    "skipToContent": "Skip to content"
+  }
+}
