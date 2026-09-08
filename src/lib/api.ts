@@ -15,11 +15,21 @@ export const API_ORIGIN =
 export const API_URL =
   process.env.NEXT_PUBLIC_API_URL ?? `${API_ORIGIN}/api`;
 
-/** Turn a MEDIA path from the API into something <Image> can load. */
+/**
+ * Turn a MEDIA path from the API into something <Image> can load.
+ *
+ * DRF builds absolute URLs from the incoming request, and behind a proxy that
+ * does not forward X-Forwarded-Proto it hands back `http://` even on an HTTPS
+ * site — which browsers then block as mixed content. So we keep only the part
+ * after /media/ and rebuild the URL against API_ORIGIN, which is always right.
+ */
 export function mediaUrl(path: string | null | undefined): string | null {
   if (!path) return null;
-  if (path.startsWith("http://") || path.startsWith("https://")) return path;
-  return `${API_ORIGIN}/media/${path.replace(/^\/?media\/?/, "")}`;
+  const relative = path
+    .replace(/^https?:\/\/[^/]+/, "")
+    .replace(/^\/?media\/?/, "");
+  if (!relative) return null;
+  return `${API_ORIGIN}/media/${relative}`;
 }
 
 interface FetchOptions {
